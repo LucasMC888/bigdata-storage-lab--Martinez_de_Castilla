@@ -1,1 +1,30 @@
 # bigdata-storage-lab--Martinez_de_Castilla
+
+**bigdata-storage-lab-<apellido>/
+│
+├── data/
+│   ├── raw/
+│   │   └── .gitkeep
+│   ├── bronze/
+│   │   └── .gitkeep
+│   ├── silver/
+│   │   └── .gitkeep
+│   └── gold/
+│       └── .gitkeep
+│
+├── src/
+│   ├── ingest.py
+│   ├── validate.py
+│   └── transform.py
+│
+├── docs/
+│   ├── diccionario.md
+│   └── gobernanza.md
+│
+├── tests/
+│   └── checklist.md
+│
+├── streamlit_app/
+│   └── streamlit_app.py
+│
+└── requirements.txt**
